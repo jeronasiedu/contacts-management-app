@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899171527724",
+    "project_id": "my-cool-1234567890",
+    "storage_bucket": "my-cool-1234567890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899171527724:android:514f17657970740fda3589",
+        "android_client_info": {
+          "package_name": "com.jerondev.firebase_cli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899171527724-l5t463qj259g24cducrrrvi40k8e5kgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqeesDq_Cm2nOQccM-DHJvw0x9eciQlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899171527724-l5t463qj259g24cducrrrvi40k8e5kgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
